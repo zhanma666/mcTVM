@@ -2,7 +2,7 @@
 
 ## Current PR
 
-- **Repo:** https://github.com/zhanma666/mcTVM
+- **Repo:** [https://github.com/zhanma666/mcTVM](https://github.com/MetaX-MACA/mcTVM/pull/30)
 - **Branch:** `fix/duplicate-maca-error-message`
 - **Head SHA:** `485c4d14c`
 - **Base:** `apache/tvm:main`
